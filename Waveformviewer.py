@@ -27,3 +27,4 @@ ax.plot(x[:],wf[:],color = 'b', linewidth = 2)
 #ax.plot(x[:],wf1[:],color = 'r', linewidth = 2)
 plt.grid()
 plt.show()
+#Editing test for github. 
