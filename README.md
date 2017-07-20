@@ -1,3 +1,3 @@
 # Waveform-Viewer
-Import and plot time series data. 
-Changes incoming
+Import and plot time series data using homebrewed collection software from LabView.
+Changes incoming...
